@@ -1,0 +1,10 @@
+# Gradio
+.gradio/**
+
+# Project specific
+logs/*
+model/**
+
+.git/**
+
+README.md
